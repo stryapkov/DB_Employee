@@ -1,0 +1,84 @@
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\TEKOM.exe.config
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\TEKOM.exe
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\TEKOM.pdb
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\TEKOM.exe.CodeAnalysisLog.xml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\TEKOM.exe.lastcodeanalysissucceeded
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\EntityFramework.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\System.Windows.Interactivity.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\EntityFramework.xml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM.csprojResolveAssemblyReference.cache
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\MainWindow.baml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\Skins\MainSkin.baml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\MainWindow.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\App.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM_MarkupCompile.cache
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM_MarkupCompile.lref
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\App.baml
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM.g.resources
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM.Properties.Resources.resources
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM.csproj.GenerateResource.Cache
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM.exe
+c:\users\днс\documents\visual studio 2015\Projects\TEKOM\TEKOM\obj\Debug\TEKOM.pdb
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\TEKOM.exe.config
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM.exe
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM.pdb
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\TEKOM.exe
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\TEKOM.pdb
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\TEKOM.exe.CodeAnalysisLog.xml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\TEKOM.exe.lastcodeanalysissucceeded
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\EntityFramework.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\EntityFramework.xml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM.csprojResolveAssemblyReference.cache
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\MainWindow.baml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\Skins\MainSkin.baml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\MainWindow.g.cs
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\App.g.cs
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM_MarkupCompile.cache
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM_MarkupCompile.lref
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\App.baml
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM.g.resources
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM.Properties.Resources.resources
+C:\Users\stryapkov\Desktop\TEKOM\TEKOM\obj\Debug\TEKOM.csproj.GenerateResource.Cache
